@@ -1,8 +1,3 @@
-name:
-   first: Goutham
-   last: Panneeru
-email: gp1521@nyu.edu
-leaderboard: goutham
 Example: Prodiem Plain guess=drug gold= confidence=0.9316558568625453
 Example: Dá-me Luz guess=movie gold= confidence=0.5317932793794046
 Example: Burnside guess=place gold= confidence=0.8741695004683092

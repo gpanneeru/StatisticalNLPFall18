@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Goutham
+   last: Panneeru
+email: gp1521@nyu.edu
+leaderboard: goutham
