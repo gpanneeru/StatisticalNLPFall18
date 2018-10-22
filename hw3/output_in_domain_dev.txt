@@ -1467,7 +1467,7 @@ ad	NN
 campaign	NN
 ,	,
 ``	``
-Leadership	NNS
+Leadership	NN
 by	IN
 Example	NNP
 .	.
@@ -2891,7 +2891,7 @@ second	JJ
 inning	NN
 ,	,
 and	CC
-homered	VBD
+homered	VBN
 for	IN
 his	PRP$
 team	NN
@@ -5557,7 +5557,7 @@ this	DT
 legislation	NN
 .	.
 
-Aides	VBZ
+Aides	IN
 both	DT
 in	IN
 the	DT
@@ -9043,7 +9043,7 @@ a	DT
 manner	NN
 as	RB
 is	VBZ
-warranted	JJ
+warranted	VBN
 .	.
 ''	''
 
@@ -9898,7 +9898,7 @@ who	WP
 throws	VBZ
 an	DT
 intercept	NN
-'Cause	IN
+'Cause	NNP
 his	PRP$
 receiver	NN
 slips	VBZ
@@ -13925,7 +13925,7 @@ Spots	NNP
 
 CALL	NNP
 IT	PRP
-un-advertising	VBG
+un-advertising	NN
 .	.
 
 Pittsburgh	NNP
@@ -14164,7 +14164,7 @@ recognition	NN
 ''	''
 
 Retailer	NNP
-Sees	NNPS
+Sees	NNP
 Pitfalls	NNP
 In	IN
 Environmental	NNP
@@ -14271,7 +14271,7 @@ dishwasher	NN
 detergent	NN
 and	CC
 puts	VBZ
-Sunlight	NNP
+Sunlight	JJ
 on	IN
 its	PRP$
 environmentally	RB
@@ -15965,7 +15965,7 @@ Helmut	NNP
 Kohl	NNP
 .	.
 
-Diplomatic	NN
+Diplomatic	JJ
 sources	NNS
 said	VBD
 Mr.	NNP
@@ -20978,7 +20978,7 @@ their	PRP$
 approval	NN
 .	.
 
-Grinned	VBN
+Grinned	NNP
 Griffith	NNP
 Peck	NNP
 ,	,
@@ -22243,7 +22243,7 @@ Jupiter	NNP
 .	.
 
 The	DT
-anti-defense	JJ
+anti-defense	NN
 Greens	NNS
 wanted	VBD
 a	DT
@@ -23727,7 +23727,7 @@ of	IN
 fine	JJ
 crystal	NN
 and	CC
-Wedgwood	NNP
+Wedgwood	JJ
 china	NN
 ,	,
 reported	VBD
@@ -25690,7 +25690,7 @@ market	NN
 
 Municipals	NNS
 
-Rebounding	NN
+Rebounding	VBG
 stocks	NNS
 and	CC
 weaker	JJR
@@ -28068,7 +28068,7 @@ scrambling	VBG
 to	TO
 tap	VB
 the	DT
-resurging	NN
+resurging	VBG
 market	NN
 ,	,
 reviving	VBG
@@ -36597,7 +36597,7 @@ with	IN
 Pertamina	NNP
 ,	,
 the	DT
-Indonesian	JJ
+Indonesian	NNP
 state	NN
 oil	NN
 company	NN
@@ -37364,7 +37364,7 @@ In	IN
 addition	NN
 to	IN
 making	VBG
-electro	NN
+electro	JJ
 -	HYPH
 optical	JJ
 systems	NNS
@@ -37584,8 +37584,8 @@ company	NN
 last	JJ
 week	NN
 agreed	VBD
-to	TO
-mediation	VB
+to	IN
+mediation	NN
 .	.
 
 The	DT
@@ -41164,7 +41164,7 @@ and	CC
 menswear	NN
 through	IN
 the	DT
-Schoeneman	JJ
+Schoeneman	NNP
 division	NN
 .	.
 
@@ -41352,7 +41352,7 @@ $	$
 million	CD
 .	.
 
-Bidermann	NN
+Bidermann	NNP
 sells	VBZ
 clothes	NNS
 under	IN

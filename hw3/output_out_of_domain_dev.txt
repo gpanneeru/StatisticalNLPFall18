@@ -442,9 +442,9 @@ By	IN
 using	VBG
 the	DT
 word	NN
-"	HYPH
-Islamic	JJ
-"	NN
+"	,
+Islamic	NNP
+"	,
 as	IN
 an	DT
 adjective	NN
@@ -513,7 +513,7 @@ Zaman	NNP
 London	NNP
 E17	CD
 
-Assan	DT
+Assan	NNP
 Abdullah	NNP
 Khan	NNP
 ,	,
@@ -571,7 +571,7 @@ Khatib	NNP
 London	NNP
 E17	CD
 
-Shamin	IN
+Shamin	NNP
 Mohammed	NNP
 Uddin	NNP
 ,	,
@@ -3611,7 +3611,7 @@ Israel	NNP
 .	.
 
 The	DT
-Taliban	JJ
+Taliban	NNP
 control	NN
 of	IN
 Afghanistan	NNP
@@ -4316,7 +4316,7 @@ murder	NN
 .	.
 *	NFP
 
-Suicide	NN
+Suicide	NNP
 murders	NNS
 are	VBP
 not	RB
@@ -4507,7 +4507,7 @@ cruel	JJ
 death	NN
 with	IN
 bodies	NNS
-dismembered	VBD
+dismembered	VBN
 and	CC
 horrible	JJ
 severe	JJ
@@ -5003,7 +5003,7 @@ are	VBP
 dead	JJ
 .	.
 
-Suicide	NN
+Suicide	NNP
 murders	NNS
 also	RB
 have	VBP
@@ -5367,7 +5367,7 @@ Spanish	JJ
 trains	NNS
 and	CC
 the	DT
-Istanbul	JJ
+Istanbul	NNP
 bombings	NNS
 are	VBP
 only	RB
@@ -5641,7 +5641,7 @@ Western	JJ
 press	NN
 from	IN
 giving	VBG
-credence	VBN
+credence	NN
 ,	,
 every	DT
 day	NN
@@ -6137,7 +6137,7 @@ the	DT
 "	NN
 spiritual	NN
 leader	NN
-"	NN
+"	.
 .	.
 
 There	EX
@@ -9236,7 +9236,7 @@ they	PRP
 all	RB
 have	VBP
 their	PRP$
-favourite	JJ
+favourite	NN
 contenders	NNS
 in	IN
 Afghanistan	NNP
@@ -9858,7 +9858,7 @@ anti-army	DT
 feeling	NN
 in	IN
 the	DT
-tribal	JJ
+tribal	NN
 areas	NNS
 but	CC
 it	PRP
@@ -10928,7 +10928,7 @@ giving	VBG
 unlimited	JJ
 sanctuary	NN
 to	IN
-Taliban	JJ
+Taliban	NNP
 extremists	NNS
 living	VBG
 on	IN
@@ -11039,7 +11039,7 @@ development	NN
 Musharraf	NNP
 calls	VBZ
 the	DT
-bluff	JJ
+bluff	NN
 
 M.D.	NNP
 Nalapat	NNP
@@ -11364,8 +11364,8 @@ told	VBN
 is	VBZ
 the	DT
 "	JJ
-minimum	JJ
-"	NN
+minimum	NN
+"	,
 that	IN
 the	DT
 Pakistan	NNP
@@ -13143,7 +13143,7 @@ visits	NNS
 to	IN
 Colombo	NNP
 and	CC
-Kilinochchi	NN
+Kilinochchi	NNP
 in	IN
 early	JJ
 November	NNP
@@ -13601,7 +13601,7 @@ political	JJ
 leader	NN
 and	CC
 former	JJ
-Bangladeshi	JJ
+Bangladeshi	NNP
 prime	JJ
 minister	NN
 Sheikh	NNP
@@ -14490,7 +14490,7 @@ political	JJ
 leader	NN
 and	CC
 former	JJ
-Bangladeshi	JJ
+Bangladeshi	NNP
 prime	JJ
 minister	NN
 Sheikh	NNP
@@ -14827,7 +14827,7 @@ February	NNP
 2001	CD
 aboard	IN
 the	DT
-freighter	JJ
+freighter	NN
 Comex	NNP
 -	HYPH
 Joux	NNP
@@ -14895,7 +14895,7 @@ east	JJ
 coast	NN
 .	.
 
-LTTE	DT
+LTTE	NNP
 arms	NNS
 -	HYPH
 running	NN
@@ -17236,7 +17236,7 @@ from	IN
 that	WDT
 was	VBD
 signed	VBN
-"	IN
+"	.
 Khalid	NNP
 Sheik	NNP
 Bojinka	NNP
@@ -17982,13 +17982,13 @@ reported	VBD
 finding	VBG
 at	IN
 Dugway	NNP
-undermines	NNS
+undermines	IN
 the	DT
 argument	NN
 of	IN
 both	DT
 the	DT
-"	JJ
+"	NN
 bomb	NN
 Iraq	NNP
 "	,
@@ -19029,7 +19029,7 @@ or	CC
 politically	RB
 -	HYPH
 based	VBN
-preconceptions	NN
+preconceptions	NNS
 .	.
 
 In	IN
@@ -19092,7 +19092,7 @@ since	IN
 the	DT
 testimony	NN
 of	IN
-millennium	JJ
+millennium	NN
 bomber	NN
 Ahmed	NNP
 Ressam	NNP
@@ -20899,7 +20899,7 @@ Laboratory	NNP
 Medicine	NNP
 .	.
 
-"	IN
+"	DT
 Dale	NNP
 "	,
 means	VBZ
@@ -21149,7 +21149,7 @@ meet	VB
 Whatever	WDT
 your	PRP$
 political	JJ
-persuasion	NNS
+persuasion	NN
 ,	,
 the	DT
 FBI	NNP
@@ -21645,9 +21645,9 @@ I	PRP
 would	MD
 put	VB
 it	PRP
-out	IN
-there	EX
-anyways	NN
+out	RP
+there	RB
+anyways	DT
 .	.
 
 John	NNP
@@ -21920,7 +21920,7 @@ using	VBG
 This	DT
 acceptance	NN
 of	IN
-blatantly	JJ
+blatantly	RB
 terrorist	JJ
 groups	NNS
 as	IN
@@ -22548,7 +22548,7 @@ heads	NNS
 non-stop	RB
 .	.
 
-Fedayeen	VBN
+Fedayeen	NNS
 are	VBP
 now	RB
 visible	JJ
@@ -23534,7 +23534,7 @@ list	NN
 ,	,
 have	VBP
 quite	RB
-expectedly	VBN
+expectedly	RB
 used	VBN
 their	PRP$
 governmental	JJ
@@ -23715,7 +23715,7 @@ have	VBP
 been	VBN
 engaging	VBG
 in	IN
-shrill	CD
+shrill	JJ
 public	JJ
 attacks	NNS
 over	IN
@@ -23742,7 +23742,7 @@ Saddam	NNP
 and	CC
 the	DT
 CIA	NNP
-"	.
+"	NN
 ,	,
 while	IN
 Sha'lan	NNP
@@ -23905,7 +23905,7 @@ barely	RB
 mentioned	VBN
 outside	IN
 the	DT
-Kurdish	JJ
+Kurdish	NNP
 region	NN
 .	.
 
@@ -24128,7 +24128,7 @@ Shia	NNP
 ,	,
 calling	VBG
 them	PRP
-Persians	NNS
+Persians	NNP
 ,	,
 Majoos	NNP
 (	(
@@ -24207,7 +24207,7 @@ that	DT
 resistance	NN
 was	VBD
 the	DT
-only	RB
+only	JJ
 commonsense	JJ
 solution	NN
 .	.
